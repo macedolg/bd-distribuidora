@@ -1,2 +1,3 @@
-# BDHAHAHAHAHA
-Banco de Dados do 4 bimestre de 2022 - Exercícios - 2 ano Desenvolvimento de Sistmas
+# Exercicíos feitos em Aula - Banco de Dados
+## Feito em Linguagem SQL no MySQL
+Banco de Dados do 4 bimestre de 2022 - Exercícios - 2º Curso Técnico Desenvolvimento de Sistemas Integrado ao Ensino Médio
